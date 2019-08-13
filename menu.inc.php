@@ -20,7 +20,7 @@
             <?php
           } ?>
             <li class="nav-item nav-link active px-lg-4">
-            <a href="index.php"><i class="glyphicon glyphicon-home"></i> Quem somos</a></li>
+            <a href="quem_somos.php"><i class="glyphicon glyphicon-home"></i> Quem somos</a></li>
             </li>
             <li class="nav-item nav-link active px-lg-4">
             <a href="index.php"><i class="glyphicon glyphicon-home"></i> Comprar</a></li>
