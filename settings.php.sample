@@ -17,7 +17,7 @@ define('MAIL_SENDER',"comissaopedidos@gmail.com");
 define('MAIL_FROM_NAME',"Comissão de Pedidos da Rede Ecológica");
 
 // configuração do salt para o hash
-define('PASSWORD_SALT',"tempero"); 
+define('PASSWORD_SALT',"tempero");
 
 define('NOME_SISTEMA',"Sistema de Pedidos da Rede Ecológica");
 
@@ -39,4 +39,3 @@ define('GA_DOMAIN',"redeecologicario.org");  // exemplo: redeecologicario.org
 
 
 ?>
- 
